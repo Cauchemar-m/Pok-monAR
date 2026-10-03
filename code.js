@@ -74,14 +74,14 @@
     loading_name: {
       en: "⏳ Loading {n}…",
       zh_tw: "⏳ 正在載入 {n}…",
-      zh_cn: "⏳ 正在載入 {n}…",
+      zh_cn: "⏳ 正在载入 {n}…",
     },
     model_failed: {
       en: "❌ Model failed to load",
       zh_tw: "",
       zh_cn: "",
     },
-    spin_on: { en: "Spin ON", zh_tw: "旋轉 在", zh_cn: "旋转 开" },
+    spin_on: { en: "Spin ON", zh_tw: "旋轉 开", zh_cn: "旋转 开" },
     spin_off: { en: "Spin OFF", zh_tw: "旋轉 關", zh_cn: "旋转 关" },
     loading_title: {
       en: "Loading Pokémon AR…",
